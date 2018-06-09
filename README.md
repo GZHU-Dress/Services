@@ -25,4 +25,4 @@ Important files need to be backed up.
 
 ## Register
 
-Send a message containing your username, and I will return an account with a random password at first. If you did not join our group, you can open an issue here.
+Send a message containing your username and email, and I will return an account with a random password at first. If you did not join our group, you can open an issue here.
