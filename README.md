@@ -29,6 +29,8 @@ Send a message containing your username and email, and I will return an account 
 
 ## Arch Linux Packages Cache
 
+![archpkg](images/archpkg.png)
+
 This is a caching for archlinux packages. It contains **testing** or rebuilding packages. You need to pay attention to them.
 
 The package will be signed by my keyring which one you can install `archlinuxcn-keyring` from archlinuxcn's mirror.
