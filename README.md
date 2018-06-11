@@ -23,6 +23,17 @@ Important files need to be backed up.
 - Memory: 296MiB / 7960MiB
 - HDD: 70G*2
 
-## Register
+### Register
 
 Send a message containing your username and email, and I will return an account with a random password at first. If you did not join our group, you can open an issue here.
+
+## Arch Linux Packages Cache
+
+This is a caching for archlinux packages. It contains **testing** or rebuilding packages. You need to pay attention to them.
+
+The package will be signed by my keyring which one you can install `archlinuxcn-keyring` from archlinuxcn's mirror.
+Then downloading the package to install.
+
+### Address
+
+`202.192.29.66:8201` 
